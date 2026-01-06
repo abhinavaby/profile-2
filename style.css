@@ -36,8 +36,9 @@ body{
 
 #photo{
     
-    width:530px;
+    width:600px;
     height:200px;
+    margin:auto;
     
    
     display: flex;
